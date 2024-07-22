@@ -1,0 +1,7 @@
+train: C:\Users\pc\PycharmProjects\iagro_yolov8\data\train\images
+val: C:\Users\pc\PycharmProjects\iagro_yolov8\data\valid\images
+
+nc: 3
+
+# Lista de nombres de clases
+names: ['Aracnido Rojo', 'Pulgon', 'Mosca Blanca']
